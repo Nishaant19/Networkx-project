@@ -7,4 +7,5 @@
 
 # Graph obtained 
 
-![alt text]("C:\Users\Nishaant Harrish\OneDrive\Desktop\img.png")
+![img](https://github.com/Nishaant19/Networkx-project/assets/103203018/26d2883a-2b56-45c4-9187-ce170a0803a7)
+
