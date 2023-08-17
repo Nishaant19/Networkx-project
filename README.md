@@ -1,4 +1,4 @@
-# Networkx-project
+# Networkx-project-summary
 
 -> Created 100 nodes which are assumed as persons.<br>
 -> Allocated BMI(body mass index) randomly to these 100 people.<br>
